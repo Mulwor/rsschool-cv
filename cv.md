@@ -1,16 +1,18 @@
-https://themrcrowley.github.io/rsschool-cv/cv.html
 # Ali Adigezalli
 # My Contact Info
 * Phone: +7 (999) 246-26-76
 * Email: mulwor.001@yandex.ru
 * Github: Mulwor
+
 # Summary 
 My name is Ali, i'm 24 year old so far. I don't have such experience but i know 4 languages. My goal is to become a good programmer to provide my family. 
+
 # Skills
 * HTML (Hypertext Markup Language)
 * Markdown
 * CSS (Cascading Style Sheets)
 * JS (JavaScript)
+
 # Code Examples
 ```
 function isDivideBy(number, a, b) {
