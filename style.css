@@ -1,0 +1,318 @@
+body{
+    font-family: "Times New Roman", "Georgia", sans-serif;
+}
+header{
+    margin-left: 50px;
+    margin-right: 100px;
+    height: 40px;
+    border-radius: 15px 15px 0 0;
+    background: no-repeat url("./Image/Elegant_Background-17.jpg");
+}
+ h2::after {
+	content: "";
+	position: absolute;					
+	top: 80%;							
+	left: 0%;							
+	right: 0%;
+	border-bottom: 2px solid red;		
+ }
+
+/*Навигация*/
+.nav-list{
+    display: flex;
+    justify-content: space-around;
+    margin: 8px;
+    padding: 0;
+    list-style: none;
+}
+.click{
+    text-decoration: none;
+    line-height: 40px;
+    color: white;
+    font-size: 22px;
+}
+.click:hover{
+    background-color:#4682B4;
+}
+
+/*Фотография*/
+.Ali img{
+    position: absolute;
+    top: 48px;
+    left: 50px;
+    max-width: 300px;
+    display: flex;
+}
+
+/*Контакты*/
+.contact {
+    position: absolute;
+    top: 336px;
+    left: 50px;
+    width: 300px;
+    padding: 10px 0px 12px 0px;
+    background: no-repeat url("./Image/Elegant_Background-17.jpg");
+    color: white;
+}
+
+/*Указываем ширину левого контейнера через margin-bottom*/
+.title {
+    position: relative;
+    margin: 0;
+    margin-bottom: 734px;
+    padding-left: 35%;
+    font-size: 22px;
+    line-height: 36px;
+}
+
+i {
+    max-width: 40px;
+}
+
+/*Список #1*/
+.list1 {
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+/*Навыки и образование*/
+.skills {
+    position: absolute;
+    top: 510px;
+    left: 50px;
+    width: 300px;
+    color: white;
+}
+.list2{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    font-size: 19px;
+    cursor: pointer;
+}
+.education {
+    position: absolute;
+    top: 790px;
+    left: 50px;
+    width: 300px;
+    color: white;
+}
+.ed {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    right: 15px;
+    font-size: 19px;
+    cursor: pointer;
+    text-align: justify;
+}
+
+/*Языки*/
+.language {
+    position: absolute;
+    top: 940px;
+    left: 50px;
+    width: 300px;
+    color: white;
+}
+.list3 {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.right-side{
+    position: absolute;
+    top: 48px;
+    left: 350px;
+    width: 899px;
+    padding: 10px 0px 1100px 0px;
+    margin-bottom: 900px;
+    text-align: justify;
+}
+
+.page-title {
+    margin: 50px 82px 50px 60px;
+}
+
+.border {
+    border: 1px solid black;
+    width: 350px;
+    height: 73px;
+    position: absolute;
+    top: 40px;
+    left: 300px;
+}
+
+.heading {
+    font-size: 50px;
+    position: absolute;
+    top: 50px;
+    left: 330px;
+}
+.my_text{
+    position: absolute;
+    top: 110px;
+    left: 390px;
+}
+
+.newTitle {
+	position: absolute;					
+	top: 15%;							
+	left: 45%;							
+	right: 0%;
+    font-size: 30px;
+}
+
+.text {
+    position: absolute;
+    top: 20%;							
+	left: 2%;	
+    right: 2%;
+    font-size: 19px;
+    word-spacing: 5px;
+    text-indent: 40px;
+}
+
+.newTitle2{
+    position: absolute;					
+	top: 30%;							
+	left: 48%;							
+	right: 0%;
+    font-size: 30px;
+}
+.containerNew {		
+    position: absolute;		
+	top: 34%;				
+    left: -15%;								
+    font-size: 19px;
+}
+.contactino {
+    position: absolute;		
+	top: 35%;
+    border: 2px solid black;
+    width: 670px;
+    height: 90px;
+    left: 16px;
+}
+
+.one {
+    color: purple;
+}
+.two {
+    color: orange;
+}
+/*.three {
+    color: white; 
+}  */
+.four {
+    color: rgb(0, 102, 255);
+}
+.five {
+    color: rgb(219, 219, 16);
+}
+
+
+.newTitle3{
+    position: absolute;					
+	top: 90%;							
+	left: 57%;							
+    font-size: 30px;
+}
+.oneProject {
+    position: absolute;		
+    top: 100%;
+    border: 2px solid black;
+    width: 250px;
+    height: 150px;
+    left: 370px;
+}
+.nameP {
+    position: absolute;					
+	top: 40%;							
+	left: 35%;	
+    font-size: 25px;						
+}
+.twoProject {
+    position: absolute;		
+    top: 100%;
+    border: 2px solid black;
+    width: 250px;
+    height: 150px;
+    left: 660px;
+}
+.nameT {
+    position: absolute;					
+	top: 40%;							
+	left: 17%;	
+    font-size: 25px;						
+}
+.threeProject {
+    position: absolute;		
+    top: 100%;
+    border: 2px solid black;
+    width: 250px;
+    height: 150px;
+    left: 950px;
+}
+.nameC {
+    position: absolute;					
+	top: 40%;							
+	left: 17%;	
+    font-size: 25px;						
+}
+.rightSideLinya {
+    position: absolute;	
+    border: 1px solid black;
+    height: 1140px;
+    left: 1247px;
+    right: 1100px;
+    display: flex;
+}
+
+.downSideLinya {
+    position: absolute;	
+    border: 1px solid black;
+    left: 50px;
+    width: 1195px;
+    bottom: -505px;
+    display: flex;
+}
+
+footer{
+    position: absolute;
+    left: 0;
+    bottom: -550px;
+    width: 80%;
+    padding-left: 150px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons img { 
+    width: 32%; /* Ширина изображений */
+    height: 32%; 
+}
+.leftSideLinya{
+    position: absolute;	
+    border: 1px solid black;
+    left: 50px;
+    width: 1195px;
+    bottom: -565px;
+    display: flex;
+}
+.leftSideLinya2{
+    position: absolute;	
+    border: 1px solid black;
+    left: 50px;
+    bottom: -564px;
+    display: flex;
+    height: 1140px;
+}
