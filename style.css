@@ -6,7 +6,7 @@ header{
     margin-right: 100px;
     height: 40px;
     border-radius: 15px 15px 0 0;
-    background: no-repeat url("./Image/Elegant_Background-17.jpg");
+    background: no-repeat url("./Elegant_Background-17.jpg");
 }
  h2::after {
 	content: "";
@@ -51,7 +51,7 @@ header{
     left: 50px;
     width: 300px;
     padding: 10px 0px 12px 0px;
-    background: no-repeat url("./Image/Elegant_Background-17.jpg");
+    background: no-repeat url("./Elegant_Background-17.jpg");
     color: white;
 }
 
