@@ -218,19 +218,20 @@ i {
 }
 
 
+
 .newTitle3{
     position: absolute;					
-	top: 90%;							
-	left: 57%;							
+	top: 48%;							
+	left: 47%;							
     font-size: 30px;
 }
 .oneProject {
     position: absolute;		
-    top: 100%;
+    top: 52%;
     border: 2px solid black;
     width: 250px;
     height: 150px;
-    left: 370px;
+    left: 15px;
 }
 .nameP {
     position: absolute;					
@@ -240,11 +241,11 @@ i {
 }
 .twoProject {
     position: absolute;		
-    top: 100%;
+    top: 52%;
     border: 2px solid black;
     width: 250px;
     height: 150px;
-    left: 660px;
+    left: 300px;
 }
 .nameT {
     position: absolute;					
@@ -254,11 +255,11 @@ i {
 }
 .threeProject {
     position: absolute;		
-    top: 100%;
+    top: 52%;
     border: 2px solid black;
     width: 250px;
     height: 150px;
-    left: 950px;
+    left: 580px;
 }
 .nameC {
     position: absolute;					
@@ -268,10 +269,10 @@ i {
 }
 .rightSideLinya {
     position: absolute;	
+    top: 0px;
     border: 1px solid black;
     height: 1140px;
-    left: 1247px;
-    right: 1100px;
+    left: 897px;
     display: flex;
 }
 
