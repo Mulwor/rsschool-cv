@@ -1,1 +1,1 @@
-https://Mulwor.github.io/rsschool-cv2/
+https://Mulwor.github.io/rsschool-cv/
