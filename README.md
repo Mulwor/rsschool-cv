@@ -1,1 +1,1 @@
-https://Mulwor.github.io/rsschool-cv/cv
+# rsschool-cv
